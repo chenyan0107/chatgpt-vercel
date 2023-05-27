@@ -130,6 +130,7 @@ export default (props: Props) => {
         class="message prose prose-slate dark:prose-invert dark:text-slate break-words overflow-hidden"
         innerHTML={md
           .render(props.message.content)
+        }
       />
       <MessageAction
         del={del}
