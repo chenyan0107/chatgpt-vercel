@@ -56,22 +56,22 @@ export default defineConfig({
         background_color: "#f6f8fa",
         icons: [
           {
-            src: "192.png",
+            src: "logo.png",
             sizes: "192x192",
             type: "image/png"
           },
           {
-            src: "256.png",
+            src: "logo.png",
             sizes: "256x256",
             type: "image/png"
           },
           {
-            src: "512.png",
+            src: "logo.png",
             sizes: "512x512",
             type: "image/png"
           },
           {
-            src: "apple-touch-icon.png",
+            src: "logo.png",
             sizes: "192x192",
             type: "image/png"
           }
